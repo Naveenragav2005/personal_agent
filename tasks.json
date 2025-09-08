@@ -1,0 +1,26 @@
+[
+  {
+    "time": "2025-09-08T06:00",
+    "task": "Wake up and turn on heater",
+    "agent": "iot",
+    "sensitivity": "low"
+  },
+  {
+    "time": "2025-09-08T06:30",
+    "task": "Make coffee",
+    "agent": "iot",
+    "sensitivity": "low"
+  },
+  {
+    "time": "2025-09-08T10:00",
+    "task": "Pay electricity bill",
+    "agent": "finance",
+    "sensitivity": "high"
+  },
+  {
+    "time": "2025-09-08T19:00",
+    "task": "Go to the gym",
+    "agent": "health",
+    "sensitivity": "low"
+  }
+]
